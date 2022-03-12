@@ -1,5 +1,5 @@
 # MAB_introduction_and_application
-How to to recommend to users based on article content, user profile, and the historical engagement of the user with articles.In this introduction, we implement several MAB learners and pick up recent machine learning publications to implement and apply them.
+How to to recommend to users based on article content, user profile, and the historical engagement of the user with articles? In this introduction, we implement several MAB learners and pick up recent machine learning publications to implement and apply them.
 
 
 Multi-armed bandits (MABs) are a powerful tool in statistical machine learning: from bridging decision
